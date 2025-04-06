@@ -43,5 +43,3 @@ Este é meu projeto pessoal para evoluir minhas habilidades em **SQL** resolvend
 - [LeetCode 50 SQL Interview Questions](https://leetcode.com/studyplan/sql-50/)
 
 ---
-
-Feito com 💻 e ☕ por Guilherme Diniz
