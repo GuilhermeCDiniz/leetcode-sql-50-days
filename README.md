@@ -27,7 +27,9 @@ Este é meu projeto pessoal para evoluir minhas habilidades em **SQL** resolvend
 | 03  | Big Countries | ✅ |
 | 04  | Article Views I | ✅ |
 | 05  | Invalid Tweets | ✅ |
-| 06  | Replace Employee ID With The Unique Identifier | 🔄 |
+| 06  | Replace Employee ID With The Unique Identifier | ✅ |
+| 07  | Product Sales Analysis I | ✅ |
+| 08  | Customer Who Visited but Did Not Make Any Transactions | ✅ |
 | ... | ... | ... |
 | 50  | - | ⏳ |
 
